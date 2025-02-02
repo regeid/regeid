@@ -1,5 +1,7 @@
 # Hi there! 👋  
 
+![Hello GIF](https://media.giphy.com/media/3o7TKpSPqXA4PUHfd6/giphy.gif)
+
 ### 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m learning **Full-Stack Development and APIs**
